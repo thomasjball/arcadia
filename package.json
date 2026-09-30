@@ -37,7 +37,7 @@
     "pxt-core": "2.1.5"
   },
   "scripts": {
-    "test": "node node_modules/pxt-core/built/pxt.js travis",
-    "postinstall": "./node_modules/.bin/typings install"
+    "test": "node node_modules/pxt-core/built/pxt.js travis"
   }
 }
+
